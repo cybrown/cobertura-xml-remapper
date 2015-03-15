@@ -1,0 +1,26 @@
+{
+  "name": "cobertura-xml-remapper",
+  "version": "0.0.1",
+  "description": "Remap browserified files to single javascript files in cobertura xml reports",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cybrown/cobertura-xml-remapper.git"
+  },
+  "keywords": [
+    "cobertura",
+    "browserify",
+    "coverage",
+    "karma",
+    "sourcemap"
+  ],
+  "author": "Cy Brown",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/cybrown/cobertura-xml-remapper/issues"
+  },
+  "homepage": "https://github.com/cybrown/cobertura-xml-remapper"
+}
