@@ -1,6 +1,6 @@
 {
   "name": "cobertura-xml-remapper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Remap browserified files to single javascript files in cobertura xml reports",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,7 @@
     "url": "https://github.com/cybrown/cobertura-xml-remapper/issues"
   },
   "homepage": "https://github.com/cybrown/cobertura-xml-remapper",
-  "devDependencies": {
+  "dependencies": {
     "cheerio": "^0.18.0",
     "mkdirp": "^0.5.0"
   }
